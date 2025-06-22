@@ -2,7 +2,7 @@ import pandas as pd
 import hashlib
 import numpy as np
 
-df = pd.read_csv("Midterm_53_group.csv")
+df = pd.read_csv("networktraffic.csv")
 df.head()
 
 # Extract Source and Destination IP
